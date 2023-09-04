@@ -12,7 +12,7 @@ else if (name == "astolfo")
 }
 else
 {
-    Console.WriteLine("Welcome, Upstanding Citizen");
+    Console.WriteLine("Welcome to Chowtown, Upstanding Citizen");
 }
 
 // {
