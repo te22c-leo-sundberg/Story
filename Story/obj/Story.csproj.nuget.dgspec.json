@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\Story.csproj": {}
+    "c:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\Story.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\Story.csproj": {
+    "c:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\Story.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\Story.csproj",
+        "projectUniqueName": "c:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\Story.csproj",
         "projectName": "Story",
-        "projectPath": "C:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\Story.csproj",
+        "projectPath": "c:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\Story.csproj",
         "packagesPath": "C:\\Users\\leo.sundberg1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\obj\\",
+        "outputPath": "c:\\Users\\leo.sundberg1\\Desktop\\Programming\\Story\\Story\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
