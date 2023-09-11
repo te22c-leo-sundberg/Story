@@ -30,10 +30,9 @@ else
     }
     else
     {
-        Console.WriteLine($"Welcome {name}!");
+        Console.WriteLine($"Welcome {name}, to the world of [?¤=!%/#&%]");
     }
 }
 
 
 Console.ReadLine();
-
